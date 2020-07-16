@@ -16,4 +16,4 @@
 
 ![picture](https://github.com/renatocantarino/JsfCdiMaven/tree/master/src/main/webapp/resources/img/arq.png)
 
-![alt text](https://github.com/renatocantarino/JsfCdiMaven/blob/master/arq.png?raw=true)
+![alt text](https://github.com/renatocantarino/JsfCdiMaven/blob/master/src/main/webapp/resources/img/arq.png)
