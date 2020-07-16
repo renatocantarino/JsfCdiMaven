@@ -1,0 +1,6 @@
+<beans>
+    <interceptors>
+        <class>br.com.caelum.livraria.util.TransactionManager</class>
+         <class>br.com.caelum.livraria.util.LogInterceptor</class>
+    </interceptors>
+</beans>
