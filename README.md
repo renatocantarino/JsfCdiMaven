@@ -7,7 +7,7 @@
 5. MySql
 6. Bootstrap 
 7. Interceptors (@InterceptorBinding , @AroundInvoke, InvocationContext)
-8. Gitguh CI/CD
+8. Github CI/CD
 9. Maven
 10. patterns factory , chain responsability
 
