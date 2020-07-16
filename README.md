@@ -12,3 +12,4 @@
 10. patterns factory , chain responsability
 
 
+![alt text](https:https://github.com/renatocantarino/JsfCdiMaven/tree/master/src/main/webapp/resources/img/arq.png?raw=true)
